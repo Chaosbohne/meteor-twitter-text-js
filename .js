@@ -1,1 +1,0 @@
-twttr = this.twttr;
