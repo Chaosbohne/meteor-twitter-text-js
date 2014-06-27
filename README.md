@@ -1,4 +1,4 @@
-twitter text package
+twitter-text package
 ===================
 
 Meteor smart package for [twitter-text](https://github.com/twitter/twitter-text-js) package.
