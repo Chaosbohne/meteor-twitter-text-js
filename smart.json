@@ -2,7 +2,7 @@
   "name": "twitter-text",
   "description": "Twitter-text-js is a library to find and link hashtags, mentions etc.",
   "homepage": "https://github.com/Chaosbohne/meteor-twitter-text-js",
-  "author": "Pieter Soudan",
+  "author": "Rico Ruszewski",
   "version": "0.1.0",
   "git": "https://github.com/Chaosbohne/meteor-twitter-text-js.git"
 }
